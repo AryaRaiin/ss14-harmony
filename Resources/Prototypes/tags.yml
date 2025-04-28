@@ -1361,9 +1361,6 @@
   id: WhitelistChameleonPDA
 
 - type: Tag
-  id: WhitelistChameleonPrideMantle
-
-- type: Tag
   id: Window
 
 - type: Tag

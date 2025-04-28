@@ -38,5 +38,7 @@
     ClothingUniformColorRainbow: 2
     ClothingUnderSocksCoder: 2
     ClothingUnderSocksBee: 2
+    # Harmony unique (ClothingNeckChameleonPride)
+    ClothingNeckChameleonPride: 4
   contrabandInventory:
     ClothingNeckScarfStripedLesbianLong: 2
