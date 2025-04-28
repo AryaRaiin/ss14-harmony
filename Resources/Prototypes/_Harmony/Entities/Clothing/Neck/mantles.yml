@@ -21,7 +21,7 @@
     sprite: _Harmony/Clothing/Neck/mantles/curatormantle.rsi
 
 - type: entity
-  parent: ClothingNeckBase
+  parent: ClothingPrideMantleBase
   id: ClothingNeckMantleAce
   name: ace mantle
   description: A soft mantle, striped with the asexual flag.
@@ -30,11 +30,9 @@
     sprite: _Harmony/Clothing/Neck/mantles/acemantle.rsi
   - type: Clothing
     sprite: _Harmony/Clothing/Neck/mantles/acemantle.rsi
-  - type: Tag
-    tags: [WhitelistChameleonPrideMantle,WhitelistChameleon]
 
 - type: entity
-  parent: ClothingNeckBase
+  parent: ClothingPrideMantleBase
   id: ClothingNeckMantleAroAce
   name: aroace mantle
   description: A soft mantle, striped with the aromantic asexual flag.
@@ -43,11 +41,9 @@
     sprite: _Harmony/Clothing/Neck/mantles/aroacemantle.rsi
   - type: Clothing
     sprite: _Harmony/Clothing/Neck/mantles/aroacemantle.rsi
-  - type: Tag
-    tags: [WhitelistChameleonPrideMantle,WhitelistChameleon]
 
 - type: entity
-  parent: ClothingNeckBase
+  parent: ClothingPrideMantleBase
   id: ClothingNeckMantleBisexual
   name: bisexual mantle
   description: A soft mantle, striped with the bisexual flag.
@@ -56,11 +52,9 @@
     sprite: _Harmony/Clothing/Neck/mantles/bisexualmantle.rsi
   - type: Clothing
     sprite: _Harmony/Clothing/Neck/mantles/bisexualmantle.rsi
-  - type: Tag
-    tags: [WhitelistChameleonPrideMantle,WhitelistChameleon]
 
 - type: entity
-  parent: ClothingNeckBase
+  parent: ClothingPrideMantleBase
   id: ClothingNeckMantleEnby
   name: enby mantle
   description: A soft mantle, striped with the nonbinary flag.
@@ -69,11 +63,9 @@
     sprite: _Harmony/Clothing/Neck/mantles/enbymantle.rsi
   - type: Clothing
     sprite: _Harmony/Clothing/Neck/mantles/enbymantle.rsi
-  - type: Tag
-    tags: [WhitelistChameleonPrideMantle,WhitelistChameleon]
 
 - type: entity
-  parent: ClothingNeckBase
+  parent: ClothingPrideMantleBase
   id: ClothingNeckMantleGay
   name: gay mantle
   description: A soft mantle, striped with the gay flag.
@@ -82,11 +74,9 @@
     sprite: _Harmony/Clothing/Neck/mantles/gaymantle.rsi
   - type: Clothing
     sprite: _Harmony/Clothing/Neck/mantles/gaymantle.rsi
-  - type: Tag
-    tags: [WhitelistChameleonPrideMantle,WhitelistChameleon]
 
 - type: entity
-  parent: ClothingNeckBase
+  parent: ClothingPrideMantleBase
   id: ClothingNeckMantleIntersex
   name: intersex mantle
   description: A soft mantle, striped with the intersex flag.
@@ -95,11 +85,9 @@
     sprite: _Harmony/Clothing/Neck/mantles/intersexmantle.rsi
   - type: Clothing
     sprite: _Harmony/Clothing/Neck/mantles/intersexmantle.rsi
-  - type: Tag
-    tags: [WhitelistChameleonPrideMantle,WhitelistChameleon]
 
 - type: entity
-  parent: ClothingNeckBase
+  parent: ClothingPrideMantleBase
   id: ClothingNeckMantleLesbian
   name: lesbian mantle
   description: A soft mantle, striped with the lebsian flag.
@@ -108,11 +96,9 @@
     sprite: _Harmony/Clothing/Neck/mantles/lesbianmantle.rsi
   - type: Clothing
     sprite: _Harmony/Clothing/Neck/mantles/lesbianmantle.rsi
-  - type: Tag
-    tags: [WhitelistChameleonPrideMantle,WhitelistChameleon]
 
 - type: entity
-  parent: ClothingNeckBase
+  parent: ClothingPrideMantleBase
   id: ClothingNeckMantlePansexual
   name: pansexual mantle
   description: A soft mantle, striped with the pansexual flag.
@@ -121,11 +107,9 @@
     sprite: _Harmony/Clothing/Neck/mantles/pansexualmantle.rsi
   - type: Clothing
     sprite: _Harmony/Clothing/Neck/mantles/pansexualmantle.rsi
-  - type: Tag
-    tags: [WhitelistChameleonPrideMantle,WhitelistChameleon]
 
 - type: entity
-  parent: ClothingNeckBase
+  parent: ClothingPrideMantleBase
   id: ClothingNeckMantleTrans
   name: trans mantle
   description: A soft mantle, striped with the transgender flag.
@@ -134,11 +118,9 @@
     sprite: _Harmony/Clothing/Neck/mantles/transgendermantle.rsi
   - type: Clothing
     sprite: _Harmony/Clothing/Neck/mantles/transgendermantle.rsi
-  - type: Tag
-    tags: [WhitelistChameleonPrideMantle,WhitelistChameleon]
 
 - type: entity
-  parent: ClothingNeckBase
+  parent: ClothingPrideMantleBase
   id: ClothingNeckMantleRainbow
   name: rainbow mantle
   description: A soft mantle, striped with the pride flag.
@@ -147,5 +129,3 @@
     sprite: _Harmony/Clothing/Neck/mantles/rainbowmantle.rsi
   - type: Clothing
     sprite: _Harmony/Clothing/Neck/mantles/rainbowmantle.rsi
-  - type: Tag
-    tags: [WhitelistChameleonPrideMantle,WhitelistChameleon]

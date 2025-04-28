@@ -38,7 +38,6 @@
     ClothingUniformColorRainbow: 2
     ClothingUnderSocksCoder: 2
     ClothingUnderSocksBee: 2
-    # Harmony unique pride mantles (ClothingNeckChameleonPride)
-    ClothingNeckChameleonPride: 4
+    ClothingNeckChameleonPride: 4 # Harmony unique pride mantles
   contrabandInventory:
     ClothingNeckScarfStripedLesbianLong: 2
