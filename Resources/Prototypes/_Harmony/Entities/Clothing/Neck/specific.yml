@@ -2,8 +2,8 @@
   parent: ClothingNeckBase
   id: ClothingNeckChameleonPride
   name: prideful mantle
-  description: A colorful mantle celebrating pride. The fabric coloration is configurable.
   suffix: Chameleon
+  description: A colorful mantle celebrating pride. The fabric coloration is configurable.
   components:
   - type: Tag
     tags: [] # ignore "WhitelistChameleon" tag
