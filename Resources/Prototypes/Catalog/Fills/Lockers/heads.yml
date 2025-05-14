@@ -295,6 +295,7 @@
     - id: ClothingMaskBreath
     - id: ClothingOuterHardsuitRd
     - id: OxygenTankFilled
+    - id: NitrogenTankFilled #Harmony addition
 
 # No hardsuit locker
 - type: entity
