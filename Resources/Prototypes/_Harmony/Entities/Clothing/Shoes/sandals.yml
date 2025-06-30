@@ -1,8 +1,8 @@
 - type: entity
-  parent: ClothingPrideShoesBase
+  parent: ClothingCelebrationShoesBase
   id: ClothingShoesSandalsRainbow
   name: rainbow sandals
-  description: Comfortable shoes, featuring a rainbow flag bracelet.
+  description: Comfortable shoes, featuring a rainbow bracelet.
   components:
   - type: Sprite
     sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
@@ -10,111 +10,111 @@
     sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
 
 - type: entity
-  parent: ClothingPrideShoesBase
+  parent: ClothingCelebrationShoesBase
   id: ClothingShoesSandalsAce
   name: ace sandals
-  description: Comfortable shoes, featuring a rainbow flag bracelet.
+  description: Comfortable shoes, featuring an asexual bracelet.
   components:
   - type: Sprite
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/acesandals.rsi
   - type: Clothing
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/acesandals.rsi
 
 - type: entity
-  parent: ClothingPrideShoesBase
+  parent: ClothingCelebrationShoesBase
   id: ClothingShoesSandalsAroAce
   name: aroace sandals
-  description: Comfortable shoes, featuring a rainbow flag bracelet.
+  description: Comfortable shoes, featuring an aromantic asexual bracelet.
   components:
   - type: Sprite
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/aroacesandals.rsi
   - type: Clothing
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/aroacesandals.rsi
 
 - type: entity
-  parent: ClothingPrideShoesBase
+  parent: ClothingCelebrationShoesBase
   id: ClothingShoesSandalsAro
   name: aro sandals
-  description: Comfortable shoes, featuring a rainbow flag bracelet.
+  description: Comfortable shoes, featuring an aromantic bracelet.
   components:
   - type: Sprite
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/arosandals.rsi
   - type: Clothing
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/aroandals.rsi
 
 - type: entity
-  parent: ClothingPrideShoesBase
+  parent: ClothingCelebrationShoesBase
   id: ClothingShoesSandalsBisexual
   name: bisexual sandals
-  description: Comfortable shoes, featuring a rainbow flag bracelet.
+  description: Comfortable shoes, featuring a bisexual bracelet.
   components:
   - type: Sprite
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/bisexualsandals.rsi
   - type: Clothing
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/bisexualsandals.rsi
 
 - type: entity
-  parent: ClothingPrideShoesBase
+  parent: ClothingCelebrationShoesBase
   id: ClothingShoesSandalsEnby
   name: enby sandals
-  description: Comfortable shoes, featuring a rainbow flag bracelet.
+  description: Comfortable shoes, featuring a nonbinary bracelet.
   components:
   - type: Sprite
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/enbysandals.rsi
   - type: Clothing
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/enbysandals.rsi
 
 - type: entity
-  parent: ClothingPrideShoesBase
+  parent: ClothingCelebrationShoesBase
   id: ClothingShoesSandalsGay
   name: gay sandals
-  description: Comfortable shoes, featuring a rainbow flag bracelet.
+  description: Comfortable shoes, featuring a gay bracelet.
   components:
   - type: Sprite
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/gaysandals.rsi
   - type: Clothing
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/gaysandals.rsi
 
 - type: entity
-  parent: ClothingPrideShoesBase
+  parent: ClothingCelebrationShoesBase
   id: ClothingShoesSandalsIntersex
   name: intersex sandals
-  description: Comfortable shoes, featuring a rainbow flag bracelet.
+  description: Comfortable shoes, featuring an intersex bracelet.
   components:
   - type: Sprite
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/intersexsandals.rsi
   - type: Clothing
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/intersexsandals.rsi
 
 - type: entity
-  parent: ClothingPrideShoesBase
+  parent: ClothingCelebrationShoesBase
   id: ClothingShoesSandalsLesbian
   name: lesbian sandals
-  description: Comfortable shoes, featuring a rainbow flag bracelet.
+  description: Comfortable shoes, featuring a lesbian bracelet.
   components:
   - type: Sprite
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/lesbiansandals.rsi
   - type: Clothing
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/lesbiansandals.rsi
 
 - type: entity
-  parent: ClothingPrideShoesBase
+  parent: ClothingCelebrationShoesBase
   id: ClothingShoesSandalsPansexual
   name: pansexual sandals
-  description: Comfortable shoes, featuring a rainbow flag bracelet.
+  description: Comfortable shoes, featuring a pansexual bracelet.
   components:
   - type: Sprite
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/pansexualsandals.rsi
   - type: Clothing
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/pansexualsandals.rsi
 
 - type: entity
-  parent: ClothingPrideShoesBase
+  parent: ClothingCelebrationShoesBase
   id: ClothingShoesSandalsTransgender
   name: transgender sandals
-  description: Comfortable shoes, featuring a rainbow flag bracelet.
+  description: Comfortable shoes, featuring a transgender bracelet.
   components:
   - type: Sprite
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/transgendersandals.rsi
   - type: Clothing
-    sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
+    sprite: _Harmony/Clothing/Shoes/Misc/transgendersandals.rsi
