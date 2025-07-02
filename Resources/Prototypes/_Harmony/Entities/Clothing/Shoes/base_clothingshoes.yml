@@ -1,10 +1,9 @@
-
 - type: entity
   abstract: true
   parent: ClothingShoesBase
-  id: ClothingCelebrationShoesBase
+  id: ClothingPrideShoesBase
   components:
   - type: Tag
     tags:
     - WhitelistChameleon
-    - WhitelistChameleonCelebrationSandal
+    - WhitelistChameleonPrideSandal

@@ -1,5 +1,5 @@
 - type: entity
-  parent: ClothingCelebrationShoesBase
+  parent: ClothingPrideShoesBase
   id: ClothingShoesSandalsRainbow
   name: rainbow sandals
   description: Comfortable shoes, featuring a rainbow bracelet.
@@ -10,7 +10,7 @@
     sprite: _Harmony/Clothing/Shoes/Misc/rainbowsandals.rsi
 
 - type: entity
-  parent: ClothingCelebrationShoesBase
+  parent: ClothingPrideShoesBase
   id: ClothingShoesSandalsAce
   name: ace sandals
   description: Comfortable shoes, featuring an asexual bracelet.
@@ -21,7 +21,7 @@
     sprite: _Harmony/Clothing/Shoes/Misc/acesandals.rsi
 
 - type: entity
-  parent: ClothingCelebrationShoesBase
+  parent: ClothingPrideShoesBase
   id: ClothingShoesSandalsAroAce
   name: aroace sandals
   description: Comfortable shoes, featuring an aromantic asexual bracelet.
@@ -32,7 +32,7 @@
     sprite: _Harmony/Clothing/Shoes/Misc/aroacesandals.rsi
 
 - type: entity
-  parent: ClothingCelebrationShoesBase
+  parent: ClothingPrideShoesBase
   id: ClothingShoesSandalsAro
   name: aro sandals
   description: Comfortable shoes, featuring an aromantic bracelet.
@@ -43,7 +43,7 @@
     sprite: _Harmony/Clothing/Shoes/Misc/aroandals.rsi
 
 - type: entity
-  parent: ClothingCelebrationShoesBase
+  parent: ClothingPrideShoesBase
   id: ClothingShoesSandalsBisexual
   name: bisexual sandals
   description: Comfortable shoes, featuring a bisexual bracelet.
@@ -54,7 +54,7 @@
     sprite: _Harmony/Clothing/Shoes/Misc/bisexualsandals.rsi
 
 - type: entity
-  parent: ClothingCelebrationShoesBase
+  parent: ClothingPrideShoesBase
   id: ClothingShoesSandalsEnby
   name: enby sandals
   description: Comfortable shoes, featuring a nonbinary bracelet.
@@ -65,7 +65,7 @@
     sprite: _Harmony/Clothing/Shoes/Misc/enbysandals.rsi
 
 - type: entity
-  parent: ClothingCelebrationShoesBase
+  parent: ClothingPrideShoesBase
   id: ClothingShoesSandalsGay
   name: gay sandals
   description: Comfortable shoes, featuring a gay bracelet.
@@ -76,7 +76,7 @@
     sprite: _Harmony/Clothing/Shoes/Misc/gaysandals.rsi
 
 - type: entity
-  parent: ClothingCelebrationShoesBase
+  parent: ClothingPrideShoesBase
   id: ClothingShoesSandalsIntersex
   name: intersex sandals
   description: Comfortable shoes, featuring an intersex bracelet.
@@ -87,7 +87,7 @@
     sprite: _Harmony/Clothing/Shoes/Misc/intersexsandals.rsi
 
 - type: entity
-  parent: ClothingCelebrationShoesBase
+  parent: ClothingPrideShoesBase
   id: ClothingShoesSandalsLesbian
   name: lesbian sandals
   description: Comfortable shoes, featuring a lesbian bracelet.
@@ -98,7 +98,7 @@
     sprite: _Harmony/Clothing/Shoes/Misc/lesbiansandals.rsi
 
 - type: entity
-  parent: ClothingCelebrationShoesBase
+  parent: ClothingPrideShoesBase
   id: ClothingShoesSandalsPansexual
   name: pansexual sandals
   description: Comfortable shoes, featuring a pansexual bracelet.
@@ -109,7 +109,7 @@
     sprite: _Harmony/Clothing/Shoes/Misc/pansexualsandals.rsi
 
 - type: entity
-  parent: ClothingCelebrationShoesBase
+  parent: ClothingPrideShoesBase
   id: ClothingShoesSandalsTransgender
   name: transgender sandals
   description: Comfortable shoes, featuring a transgender bracelet.
